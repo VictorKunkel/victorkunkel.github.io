@@ -1,0 +1,17 @@
+.skills {
+    height: 730px;
+    background-color: #647c90;
+    border-bottom: 10px solid #000000;
+}
+
+.skills .html {
+    display: flex;
+    font-size: 20px;
+}
+
+.skills .imghtml {
+    display: inherit;
+    aspect-ratio: 1;
+    width: 80px;
+    height: auto;
+}
