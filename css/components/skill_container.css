@@ -1,4 +1,14 @@
 .skill_container {
-    display: block;
-    padding-left: 505px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill_container .img {
+    display: inherit;
+    aspect-ratio: 1;
+    width: auto;
+    height: 90px;
+    margin-right: 25px;
 }

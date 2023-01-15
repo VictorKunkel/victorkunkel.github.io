@@ -7,10 +7,46 @@
     padding-bottom: 15px;
 }
 
-.skill_block .progress_bar {
+.skill_block .progress_bar_html {
     display: inline-block;
-    background-color: #e2ded0;
     width: 320px;
     height: 40px;
     border: 3px solid #000;
+    background: linear-gradient(
+        to right, 
+        #4e4f50 30%,
+        #e2ded0 30% 100%);
+}
+
+.skill_block .progress_bar_css {
+    display: inline-block;
+    width: 320px;
+    height: 40px;
+    border: 3px solid #000;
+    background: linear-gradient(
+        to right, 
+        #4e4f50 30%,
+        #e2ded0 30% 100%);
+}
+
+.skill_block .progress_bar_javascript {
+    display: inline-block;
+    width: 320px;
+    height: 40px;
+    border: 3px solid #000;
+    background: linear-gradient(
+        to right, 
+        #4e4f50 10%,
+        #e2ded0 10% 100%);
+}
+
+.skill_block .progress_bar_react {
+    display: inline-block;
+    width: 320px;
+    height: 40px;
+    border: 3px solid #000;
+    background: linear-gradient(
+        to right, 
+        #4e4f50 5%,
+        #e2ded0 5% 100%);
 }

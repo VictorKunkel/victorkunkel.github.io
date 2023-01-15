@@ -9,16 +9,9 @@
     margin-bottom: 40px;
 }
 
-.skills .img {
-    display: inherit;
-    aspect-ratio: 1;
-    width: auto;
-    height: 90px;
-    margin-right: 25px;
-}
-
 .skills .title {
-    padding-left: 690px;
+    display: flex;
+    justify-content: center;
     padding-top: 50px;
     padding-bottom: 70px;
 }
