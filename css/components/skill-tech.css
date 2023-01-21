@@ -1,0 +1,17 @@
+.skill-tech {
+    display: flex;
+    color:#e2ded0;
+    font-family: "PatuaOne", sans-serif;
+    font-size: 25px;
+    justify-content: center;
+}
+
+.skill-tech .icon {
+    margin-right: 25px;
+}
+
+.skill-tech .right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

@@ -1,0 +1,11 @@
+.section {
+    height: 730px;
+    background-color: #647c90;
+    padding-top: 50px;
+    border-bottom: 10px solid #000000
+}
+
+.section .display {
+    display: flex;
+    margin-bottom: 40px;
+}
